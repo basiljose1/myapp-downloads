@@ -1,0 +1,8 @@
+Flaticon animated icons (Lottie JSON) go here. Download each from flaticon.com/animated-icons (free with attribution,
+login required), choose "Lottie JSON", and save it with one of these names; AnimatedIcon plays it automatically.
+Any icon without a file keeps its built-in spring animation.
+
+  anim_home  anim_transactions  anim_budgets  anim_insights  anim_more
+  anim_accounts  anim_lending  anim_subscriptions  anim_calendar  anim_motion
+  anim_insights_page  anim_reports  anim_review  anim_categories  anim_manage_accounts
+  anim_settings  anim_paywall  anim_about  anim_cash_spent  anim_cash_received
